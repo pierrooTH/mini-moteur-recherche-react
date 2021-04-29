@@ -1,0 +1,39 @@
+
+.form {
+    margin: 20px 0;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(51, 155, 253);
+}
+
+.maintitle {
+    color: rgb(253, 140, 99);
+    font-size: 2rem;
+}
+.search {
+    border: 1px solid lightgray;
+    border-radius: 3px;
+    padding: 5px 10px;
+}
+
+.btn {
+    border: none;
+    border-radius: 3px;
+    padding: 15px 10px;
+    color: white;
+    background-color: rgb(51, 162, 253);
+    margin: 10px;
+}
+
+.btn__center {
+    text-align: center;
+}
